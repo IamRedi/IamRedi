@@ -9,7 +9,8 @@ Portfolio: [redioncekrezi.de](https://www.redioncekrezi.de)
 
 | Project | What it is | Try it |
 | --- | --- | --- |
-| [redionflow](https://github.com/IamRedi/redionflow) | BaumdienstFlow and BauFlow: multi-tenant operations software for outdoor teams. Next.js, Prisma, PostgreSQL | [BaumdienstFlow demo](https://redionflow-production.up.railway.app/demo) · [BauFlow demo](https://bauflow-production-1344.up.railway.app/demo) |
+| [BaumdienstFlow](https://github.com/IamRedi/redionflow) | Multi-tenant operations software for tree-care and field-service teams. Next.js, Prisma, PostgreSQL | [Website](https://www.baumdienstflow.de/) · [Demo](https://redionflow-production.up.railway.app/demo) |
+| [BauFlow](https://github.com/IamRedi/redionflow) | Construction, civil works and fibre-optic operations on the same RediOnFlow platform | [Website](https://www.baumdienstflow.de/bauflow/) · [Demo](https://bauflow-production-1344.up.railway.app/demo) |
 | [flowgastronomie](https://github.com/IamRedi/flowgastronomie) | Restaurant software: table QR menu in 4 languages, Service Radar, POS, kitchen display, online ordering. In pilot operation | [30 s walkthrough](https://github.com/IamRedi/flowgastronomie#rundgang-in-30-sekunden) |
 | [businesssite](https://github.com/IamRedi/businesssite) | Website RemoteControl for small businesses: a ready website in under 60 seconds, self-editable. Next.js, PostgreSQL RLS | |
 
